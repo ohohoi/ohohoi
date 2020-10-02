@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohohoi&count_bg=%239EB7E1&title_bg=%23525252&icon=&icon_color=%23DFDFDF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **ohohoi/ohohoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
