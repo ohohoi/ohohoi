@@ -1,5 +1,9 @@
+
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohohoi&show_icons=true&title_color=30a14e&icon_color=40c463)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohohoi%2Fhit-counter&count_bg=%239BE9A8&title_bg=%2340C463&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohohoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,6 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- 테스트 커밋용 주석 -->
-<!-- 테스트 커밋용 주석 -->
